@@ -15,17 +15,17 @@ Hello, thank you for viewing my project! In this project, my goal is to classify
 
 ## Methodology
 
-1. Exploratory Data Analysis and Preprocessing
+1. **Exploratory Data Analysis and Preprocessing**
     * Handling missing values in the `stalk-root` column (removing the feature altogether vs. removing the rows with missing data)
     * Used bar plots to view feature distributions
     * One-Hot Encoding for categorical variables
     * Splitting data into training (70%) and test (30%) subsets
 
-2. Modeling
+2. **Modeling**
     * Selected relevant features using Chi-Square Test of Independence
     * Implemented binary logistic regression
 
-3. Evaluation
+3. **Evaluation**
     * Evaluated model performance using performance metrics such as Accuracy, Precision, Recall, and F1 Score
     * Cross-Validation to assess model generalization
 
