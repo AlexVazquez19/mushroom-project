@@ -52,7 +52,7 @@ Model 2 performed better, indicating that retaining `stalk-root` (despite droppi
 
 ## Conclusion
 
-The presence of the `stalk-root` feature significantly influences model performance, emphasizing the importance of considering a features potential predictive ability before dropping it from your data. Furthermore, cross-validation proved to be a more realistic measure of modek accuracy. 
+The presence of the `stalk-root` feature significantly influences model performance, emphasizing the importance of considering a features potential predictive ability before dropping it from your data. Furthermore, cross-validation proved to be a more realistic measure of model accuracy. 
 
 Future work could include exploring more complex machine learning models to potentially improve the predictice capability of classifying a mushroom as poisonous or edible.
 
