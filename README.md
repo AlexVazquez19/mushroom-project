@@ -1,4 +1,5 @@
 # Classifying Mushrooms as Poisonous or Edible Using Binary Logistic Regression
+Alejandro Vazquez, 2/5/2025
 
 ## Introduction
 
